@@ -161,6 +161,8 @@ namespace detail {
          else
          {
             vector<string> seeds = {
+		"45.79.179.228:10001",
+		"45.79.164.218:10001"
             };
             for( const string& endpoint_string : seeds )
             {
